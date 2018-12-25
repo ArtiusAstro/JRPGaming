@@ -10,7 +10,7 @@ function TagsPage(props) {
     return (
         <Layout>
             <div className="tags">
-                <h1>All tags</h1>
+                <h1>JRPG Consoles</h1>
                 {
                     data.map(tag => (
                         <Link to={`/${tag.fieldValue}`} >

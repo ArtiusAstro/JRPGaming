@@ -2,7 +2,6 @@ import React from 'react';
 import Layout from '../components/layout';
 import Img from 'gatsby-image';
 import { graphql } from 'gatsby'
-import PrevNext from '../components/prevnext';
 import MetaTags from '../components/Metatags';
 import Share from '../components/share';
 
@@ -33,7 +32,6 @@ function GamePost(props) {
                     ))}
                 </div>
                 <Share title={title} url={url} pathname={props.location.pathname} />
-                <PrevNext prev={prev && prev.node} next={next && next.node} />
             </div>
         </Layout>
     )

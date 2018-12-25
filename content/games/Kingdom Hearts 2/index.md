@@ -1,8 +1,8 @@
 ---
-title: Dragon Quest VIII
-description: Dragon Quest VIII Review
+title: Kingdom Hearts 2
+description: Kingdom Hearts 2 Review
 date: '2018-12-25'
-tags: ['PS2','3DS','Switch']
+tags: ['PS2', 'PS3', 'PS4']
 image: 'boxart.jpg'
 ---
 

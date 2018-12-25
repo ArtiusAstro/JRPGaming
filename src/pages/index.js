@@ -4,7 +4,6 @@ import './post.css';
 import Layout from '../components/layout'
 
 const IndexPage = (props) => {
-  <h2>Recent Posts</h2>
   const postList = props.data.allMarkdownRemark;
   return (
     <Layout>

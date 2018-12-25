@@ -23,25 +23,21 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {'Home'}
+          {'JRPGaming'}
         </a>
 
       </h2>
-      <a href="https://github.com/saigowthamr/gatsby-advanced-starter"
-        style={{ color: "white", float: "right" }} title="github" >Github</a>
+      <a href="https://ayubatif.me"
+        style={{ color: "white", float: "right" }} title="github" >AA</a>
       <Link
         to="/tags"
         style={{
-          color: 'gold',
+          color: 'white',
           marginRight: '27px',
-          backgroundColor: "black",
-          padding: "4px",
           float: "right",
-          textDecoration: 'none',
-          fontStyle: "bold"
         }}
       >
-        All tags
+        Game Platforms
       </Link>
 
     </div>
