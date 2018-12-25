@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.jrpgaming.com">
+    <img alt="JRPGaming" src="https://ayubatif.me/assets/res/jrpg_icon.jpg" width="400" />
+  </a>
+  <h1 align="center">JRPGaming</h1>
+    <h3 align="center">featuring React and Gatsby</h2>
+</p>
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
