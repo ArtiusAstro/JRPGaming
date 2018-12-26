@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.jrpgaming.ayubatif.me">
+  <a href="https://jrpgaming.ayubatif.me">
     <img alt="JRPGaming" src="https://ayubatif.me/assets/res/jrpg_icon.jpg" width="400" />
   </a>
   <h1 align="center">JRPGaming</h1>
