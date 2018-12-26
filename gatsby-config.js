@@ -3,7 +3,7 @@ module.exports = {
     title: `JRPGaming`,
     description: `JRPGs are so good`,
     author: `@astrojs`,
-    siteUrl: 'https://reactgo.com',
+    siteUrl: 'http://aming-20181225171829-hostingbucket.s3-website-us-east-1.amazonaws.com',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

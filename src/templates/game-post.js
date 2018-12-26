@@ -26,7 +26,7 @@ function GamePost(props) {
                 {image && <Img fluid={image.childImageSharp.fluid} />}
                 <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }} />
                 <div>
-                    <span>Tagged in </span>
+                    <span>Available on </span>
                     {tags.map((tag, i) => (
                         <a href={`/${tag}`} key={i} style={{ marginLeft: "10px" }} >{tag}</a>
                     ))}
