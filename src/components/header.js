@@ -4,7 +4,8 @@ import { Link } from 'gatsby'
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'rebeccapurple',
+      backgroundImage: 'url(https://ayubatif.me/assets/res/jrpg_icon.jpg)',
+      backgroundSize: 'cover',
       marginBottom: '1.45rem',
     }}
   >
@@ -19,7 +20,7 @@ const Header = ({ siteTitle }) => (
         <a
           href="/"
           style={{
-            color: 'white',
+            color: 'cyan',
             textDecoration: 'none',
           }}
         >
@@ -28,13 +29,14 @@ const Header = ({ siteTitle }) => (
 
       </h2>
       <a href="https://ayubatif.me"
-        style={{ color: "white", float: "right" }} title="github" >AA</a>
+        style={{ color: "cyan", textDecoration: 'none', float: "right" }} title="aa" >AA</a>
       <Link
         to="/tags"
         style={{
-          color: 'white',
+          color: 'cyan',
           marginRight: '27px',
           float: "right",
+          textDecoration: 'none',
         }}
       >
         Game Platforms

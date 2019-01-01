@@ -12,6 +12,7 @@ function GamePost(props) {
         props.data.markdownRemark.frontmatter.image.childImageSharp.resize.src
     const { title, image, tags } = props.data.markdownRemark.frontmatter;
     const { prev, next } = props.pageContext;
+
     return (
         <Layout>
             <MetaTags
