@@ -1,3 +1,4 @@
+<h2 align="center"> Half the packages used for this project are crticially vulnerable lol <h2>
 <p align="center">
   <a href="https://jrpgaming.ayubatif.me">
     <img alt="JRPGaming" src="https://ayubatif.me/assets/res/jrpg_icon.jpg" width="400" />
